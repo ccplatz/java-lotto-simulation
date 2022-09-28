@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2ae08b36-8340-4bdd-8553-42cecbd258e7" name="Changes" comment="add license and readme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DrawingDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DrawingDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Event.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Event.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
@@ -58,7 +61,8 @@
       <option name="presentableId" value="Default" />
       <updated>1663747471466</updated>
       <workItem from="1663747472949" duration="9601000" />
-      <workItem from="1663940212319" duration="14104000" />
+      <workItem from="1663940212319" duration="14371000" />
+      <workItem from="1664350679483" duration="9510000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1664019288208</created>
@@ -74,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664019669744</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add license and readme">
+      <created>1664019837022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664019837022</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

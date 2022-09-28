@@ -11,10 +11,6 @@ public class DrawingDevice {
         this.max = max;
     }
 
-    public int[] getDrawnBalls() {
-        return drawnBalls;
-    }
-
     public int drawBall() {
         int newBall;
         do {
